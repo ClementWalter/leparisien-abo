@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "LeParisien Abo",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Enter the club from the backdoor",
   "background": {
     "scripts": [
